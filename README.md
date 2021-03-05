@@ -1,5 +1,4 @@
 # Assighment-3
-In this task you must use everything you`ve covered till this day. It is time to "show off"!
 
 Using the same approach as in the Lecture JDBC ExampleURL, you are asked to create an application for medicines.
 
